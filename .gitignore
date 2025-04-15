@@ -1,0 +1,18 @@
+# Лог файлы
+*.log
+
+# Каталоги для сборки
+target/
+bin/
+build/
+
+# IDE
+.idea/
+*.iml
+*.vscode/
+
+# MacOS
+.DS_Store
+
+# Лишние файлы от операционных систем
+Thumbs.db
